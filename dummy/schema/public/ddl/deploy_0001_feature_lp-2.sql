@@ -1,3 +1,5 @@
+\connect dummy
+
 CREATE TABLE public.t2
 (
 	c1 INTEGER NOT NULL,
